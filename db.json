@@ -1,10 +1,7 @@
 {
   "nh1": [
-  {
-    "id": 1,
-    "name": "Cầu Vàng – Golden bridge",
-    "introduction": "helloooo",
-   }
+{ "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
 
   ],
   "comments": [
